@@ -1,6 +1,6 @@
 @media(max-width:768px){
     .contain{
-        max-width: 768px;
+        max-width: 100%;
     }
     header{
         display: block;
